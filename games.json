@@ -1,6 +1,6 @@
 [
   {
-    "name": "PUBG Mobile India",
+    "name": "PUBG Mobile India | No Realese",
     "packageName": "com.pubg.imobile",
     "apkUrl": "https://example.com/pubg.apk",
     "imageName": "pubg_india"
@@ -18,13 +18,13 @@
     "imageName": "pubg_korea"
   },
   {
-    "name": "PUBGM Vietnam",
+    "name": "PUBGM Vietnam | No Realese",
     "packageName": "com.vng.pubgmobile",
     "apkUrl": "https://example.com/pubgm_vietnam.apk",
     "imageName": "pubg_vietnam"
   },
   {
-    "name": "PUBGM Taiwan",
+    "name": "PUBGM Taiwan | No Realese",
     "packageName": "com.rekoo.pubgm",
     "apkUrl": "https://example.com/pubgm_taiwan.apk",
     "imageName": "pubg_taiwan"
