@@ -1,32 +1,32 @@
 [
   {
     "name": "PUBG Mobile India",
-    "packageName": "com.tencent.ig",
+    "packageName": "com.pubg.imobile",
     "apkUrl": "https://example.com/pubg.apk",
     "imageName": "pubg_india"
   },
   {
     "name": "PUBGM Global",
-    "packageName": "com.tencent.ig.global",
+    "packageName": "com.tencent.ig.",
     "apkUrl": "https://github.com/daffaibts11/noxv5/releases/download/test/pubgm_global.apk",
     "imageName": "pubg_global"
   },
   {
     "name": "PUBGM Korea",
-    "packageName": "com.tencent.ig.korea",
+    "packageName": "com.pubg.krmobile",
     "apkUrl": "https://example.com/pubgm_korea.apk",
-    "imageName": "ic_pubgm_korea"
+    "imageName": "pubg_korea"
   },
   {
     "name": "PUBGM Vietnam",
-    "packageName": "com.tencent.ig.vietnam",
+    "packageName": "com.vng.pubgmobile",
     "apkUrl": "https://example.com/pubgm_vietnam.apk",
-    "imageName": "ic_pubgm_vietnam"
+    "imageName": "pubg_vietnam"
   },
   {
     "name": "PUBGM Taiwan",
-    "packageName": "com.tencent.ig.taiwan",
+    "packageName": "com.rekoo.pubgm",
     "apkUrl": "https://example.com/pubgm_taiwan.apk",
-    "imageName": "ic_pubgm_taiwan"
+    "imageName": "pubg_taiwan"
   }
 ]
