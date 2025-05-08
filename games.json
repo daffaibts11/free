@@ -9,7 +9,7 @@
     "name": "PUBGM Global",
     "packageName": "com.tencent.ig.global",
     "apkUrl": "https://github.com/daffaibts11/noxv5/releases/download/test/pubgm_global.apk",
-    "imageName": "ic_pubgm_global"
+    "imageName": "pubg_global"
   },
   {
     "name": "PUBGM Korea",
