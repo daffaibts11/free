@@ -1,5 +1,22 @@
 {
-  "PUBGM India": {"apkUrl": "https://example.com/pubgm_india.apk", "version": "1.0"},
-  "PUBGM Global": {"apkUrl": "https://github.com/daffaibts11/noxv5/releases/download/test/pubg_global.apk", "version": "1.2"},
-  "PUBGM Korea": {"apkUrl": "https://example.com/pubgm_korea.apk", "version": "1.2"},
+  "PUBGM India": {
+    "apkUrl": "https://example.com/pubgm_india.apk",
+    "version": "1.0"
+  },
+  "PUBGM Global": {
+    "apkUrl": "https://github.com/daffaibts11/noxv5/releases/download/test/pubg_global.apk",
+    "version": "2.1"
+  },
+  "PUBGM Korea": {
+    "apkUrl": "https://example.com/pubgm_korea.apk",
+    "version": "3.5"
+  },
+  "PUBGM Vietnam": {
+    "apkUrl": "https://example.com/pubgm_vietnam.apk",
+    "version": "1.2"
+  },
+  "PUBGM Taiwan": {
+    "apkUrl": "https://example.com/pubgm_taiwan.apk",
+    "version": "4.0"
+  }
 }
